@@ -1,6 +1,6 @@
 # Bryan Alejandro Pulido
 
-Data Analyst · Master of Business Analytics · Brisbane, QLD
+Data Analyst · Master of Business Analytics (Kaplan Business School) · Brisbane, QLD
 
 Data analyst with a Master of Business Analytics and a Bachelor of Economics, combining statistical modelling with real-world business and policy experience. I build predictive models that turn public datasets into decisions a non-technical stakeholder can act on — not just accuracy scores.
 
@@ -24,7 +24,7 @@ ARIMA/SARIMA models tested against a genuine 30-day out-of-sample holdout and a 
 
 ## Skills
 
-Python (pandas, scikit-learn, statsmodels) · SQL · R · Power BI · Tableau · predictive modelling · time series forecasting · business reporting
+Python (pandas, scikit-learn, statsmodels) · SQL · R · Power BI · Tableau · Advanced Excel (PivotTables, VLOOKUP/XLOOKUP, INDEX-MATCH, Power Query, Macros/VBA) · predictive modelling · time series forecasting · business reporting
 
 ## Connect
 
