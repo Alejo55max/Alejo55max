@@ -1,6 +1,6 @@
 # Bryan Alejandro Pulido
 
-Data Analyst · Master of Business Analytics (Kaplan Business School) · Brisbane, QLD
+Data Analyst · Master of Business Analytics · Brisbane, QLD
 
 Data analyst with a Master of Business Analytics and a Bachelor of Economics, combining statistical modelling with real-world business and policy experience. I build predictive models that turn public datasets into decisions a non-technical stakeholder can act on — not just accuracy scores.
 
