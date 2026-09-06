@@ -2,7 +2,7 @@
 
 Data Analyst · Master of Business Analytics (Kaplan Business School) · Brisbane, QLD
 
-Data analyst with a Master of Business Analytics and a Bachelor of Economics, combining statistical modelling with real-world business and policy experience. I build predictive models that turn public datasets into decisions a non-technical stakeholder can act on — not just accuracy scores.
+Data analyst with a Master of Business Analytics and a Bachelor of Economics, specialising in predictive modelling that turns complex datasets into clear business recommendations. Built a regression model explaining 85.5% of the variation in Australian hospital length of stay, plus forecasting models on ASX stock data — with a rare blend of technical and policy experience from contributing economic research to two pieces of Colombian national legislation.
 
 Currently looking for a **graduate or junior data analyst role in Brisbane**. Full Australian work rights (Temporary Graduate visa, subclass 485) — no sponsorship required.
 
