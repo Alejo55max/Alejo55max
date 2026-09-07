@@ -10,6 +10,11 @@ Currently looking for a **graduate or junior data analyst role in Brisbane**. Fu
 
 ## Case Studies
 
+### [Brisbane Airbnb Market Analysis (SQL)](https://github.com/Alejo55max/airbnb-brisbane-market-analytics)
+Is Brisbane's Airbnb market individuals renting a spare room, or commercial-scale operators — and what does that mean for housing supply?
+5-table relational PostgreSQL database, 10 business questions answered entirely in SQL (joins, CTEs, window functions). Found **28% of hosts capture 71%** of the market's estimated A$154.6M annual revenue.
+`PostgreSQL` `SQL` `window functions` `Python (charting only)`
+
 ### [Hospital Bed Capacity Analytics](https://github.com/Alejo55max/hospital-bed-capacity-analytics)
 Which hospital conditions drive the most bed demand in Australia — and how much capacity could targeted improvements free up?
 Regression model on national AIHW hospital data (**R² = 0.855**) identified the highest-burden conditions and modelled a scenario freeing ~574,000 bed-days/year.
@@ -24,7 +29,7 @@ ARIMA/SARIMA models tested against a genuine 30-day out-of-sample holdout and a 
 
 ## Skills
 
-Python (pandas, scikit-learn, statsmodels) · SQL · R · Power BI · Tableau · Advanced Excel (PivotTables, VLOOKUP/XLOOKUP, INDEX-MATCH, Power Query, Macros/VBA) · predictive modelling · time series forecasting · business reporting
+Python (pandas, scikit-learn, statsmodels) · SQL (PostgreSQL) · R · Power BI · Tableau · Advanced Excel (PivotTables, VLOOKUP/XLOOKUP, INDEX-MATCH, Power Query, Macros/VBA) · predictive modelling · time series forecasting · business reporting
 
 ## Connect
 
