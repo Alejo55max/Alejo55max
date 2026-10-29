@@ -10,6 +10,11 @@ Currently looking for a **graduate or junior data analyst role in Brisbane**. Fu
 
 ## Case Studies
 
+### [Queensland Fuel Price Shock 2026 (Excel)](https://github.com/Alejo55max/queensland-fuel-price-analytics)
+How much did the March-April 2026 Middle East supply shock raise fuel costs in Queensland, who paid most, and what can a fleet operator do about it?
+911,299 official fuel price records cleaned in a refreshable Power Query pipeline with a counted 14-step cleaning log, 5 business questions answered with dynamic-array formulas, a PivotChart dashboard with slicers, a fleet cost calculator and VBA automation, all cross-checked in Python. Found diesel rose **79% in 38 days but took 74 days to come back down**, and the Brisbane price cycle (**~36 c/L**) matters far more than the day of the week (<1 c/L).
+`Excel` `Power Query` `PivotTables` `VBA`
+
 ### [Australian Airline Market & Reliability Analysis (Cloud + Power BI)](https://github.com/Alejo55max/australian-airline-market-analytics)
 Is Australia's domestic airline network back to full strength post-COVID, and how concentrated is competition on its routes?
 BITRE on-time-performance data (119,038 rows, 2004-2026) loaded into Google BigQuery, 8 business questions answered entirely in SQL (CTEs, window functions, a from-scratch HHI market-concentration calc), and a Power BI dashboard connected live to BigQuery. Found national capacity still **~6% below its 2018-19 peak** in 2025, on-time performance crashing to 67.4% in 2022, and every one of the 15 most concentrated routes a 2-carrier duopoly.
@@ -34,7 +39,7 @@ ARIMA/SARIMA models tested against a genuine 30-day out-of-sample holdout and a 
 
 ## Skills
 
-Python (pandas, scikit-learn, statsmodels) · SQL (PostgreSQL, Google BigQuery) · R · Power BI · Tableau · Advanced Excel (PivotTables, VLOOKUP/XLOOKUP, INDEX-MATCH, Power Query, Macros/VBA) · predictive modelling · time series forecasting · business reporting
+Python (pandas, scikit-learn, statsmodels) · SQL (PostgreSQL, Google BigQuery) · R · Power BI · Tableau · Advanced Excel (Power Query, PivotTables, dynamic arrays, VLOOKUP/XLOOKUP, INDEX-MATCH, Macros/VBA) · predictive modelling · time series forecasting · business reporting
 
 ## Connect
 
