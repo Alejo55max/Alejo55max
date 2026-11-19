@@ -10,6 +10,11 @@ Currently looking for a **graduate or junior data analyst role in Brisbane**. Fu
 
 ## Case Studies
 
+### [Brisbane City Council Contact Centre: Demand & Workforce Analysis (SQL + Power BI)](https://github.com/Alejo55max/bcc-contact-centre-analytics)
+How has demand on Brisbane City Council's contact centre changed since 2014, which services still depend on the phone, and how many calls — and staff — should it plan for in 2027?
+1.7M rows of Council open data (19.9M customer contacts, 2014-2026) cleaned in PostgreSQL with a counted cleaning log, a data-governance pack (data dictionary, lineage, 9 automated quality rules, RACI) and 9 business questions answered in SQL. Found demand **rose 8% while calls fell 26.5%** (317,166 fewer a year) as a third of demand moved online — yet 11 large services still arrive 73-97% by phone. A regression + ARIMA forecast (beats a seasonal-naive baseline: **8.8% vs 10.6%** error) expects ~824,000 calls in 2027, and an Erlang C scenario shows a storm Sunday needs **57 staff instead of 17**. 4-page Power BI dashboard.
+`PostgreSQL` `SQL` `Power BI` `DAX` `Python` `data governance`
+
 ### [Queensland Fuel Price Shock 2026 (Excel)](https://github.com/Alejo55max/queensland-fuel-price-analytics)
 How much did the March-April 2026 Middle East supply shock raise fuel costs in Queensland, who paid most, and what can a fleet operator do about it?
 911,299 official fuel price records cleaned in a refreshable Power Query pipeline with a counted 14-step cleaning log, 5 business questions answered with dynamic-array formulas, a PivotChart dashboard with slicers, a fleet cost calculator and VBA automation, all cross-checked in Python. Found diesel rose **79% in 38 days but took 74 days to come back down**, and the Brisbane price cycle (**~36 c/L**) matters far more than the day of the week (<1 c/L).
@@ -39,7 +44,7 @@ ARIMA/SARIMA models tested against a genuine 30-day out-of-sample holdout and a 
 
 ## Skills
 
-Python (pandas, scikit-learn, statsmodels) · SQL (PostgreSQL, Google BigQuery) · R · Power BI · Tableau · Advanced Excel (Power Query, PivotTables, dynamic arrays, VLOOKUP/XLOOKUP, INDEX-MATCH, Macros/VBA) · predictive modelling · time series forecasting · business reporting
+Python (pandas, scikit-learn, statsmodels) · SQL (PostgreSQL, Google BigQuery) · R · Power BI · Tableau · Advanced Excel (Power Query, PivotTables, dynamic arrays, VLOOKUP/XLOOKUP, INDEX-MATCH, Macros/VBA) · predictive modelling · time series forecasting · demand forecasting & Erlang C staffing · data governance & data quality · business reporting
 
 ## Connect
 
