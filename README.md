@@ -22,7 +22,7 @@ How much did the March-April 2026 Middle East supply shock raise fuel costs in Q
 
 ### [Australian Airline Market & Reliability Analysis (Cloud + Power BI)](https://github.com/Alejo55max/australian-airline-market-analytics)
 Is Australia's domestic airline network back to full strength post-COVID, and how concentrated is competition on its routes?
-BITRE on-time-performance data (119,038 rows, 2004-2026) loaded into Google BigQuery, 8 business questions answered entirely in SQL (CTEs, window functions, a from-scratch HHI market-concentration calc), and a Power BI dashboard connected live to BigQuery. Found national capacity still **~6% below its 2018-19 peak** in 2025, on-time performance crashing to 67.4% in 2022, and every one of the 15 most concentrated routes a 2-carrier duopoly.
+BITRE on-time-performance data (119,038 rows, 2004-2026) loaded into Google BigQuery, 8 business questions answered entirely in SQL (CTEs, window functions, a from-scratch HHI market-concentration calc), and a Power BI dashboard connected live to BigQuery. Found national capacity still **~6% below its 2018-19 peak** in 2025, on-time performance crashing to 68.8% in 2022, and every one of the 15 most concentrated routes a 2-carrier duopoly.
 `Google BigQuery` `SQL` `Power BI` `Python`
 
 ### [Brisbane Airbnb Market Analysis (SQL)](https://github.com/Alejo55max/airbnb-brisbane-market-analytics)
